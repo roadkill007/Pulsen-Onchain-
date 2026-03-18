@@ -11,7 +11,7 @@ Installation & Setup Instructions
 
 > Clone the project:
 
-git clone < repository link >
+git clone < repository link .>
 cd onchain-pulse
 
 > Install dependencies:
@@ -20,8 +20,8 @@ npm install
 
 > Create .env file with:
 
-TELEGRAM_TOKEN=<Your Telegram Bot Token>
-NANSEN_API_KEY=<Your Nansen API Key>
+TELEGRAM_TOKEN=<Your Telegram Bot Token  .>
+NANSEN_API_KEY=<Your Nansen API Key  .>
 
 > Run the Telegram bot
 
