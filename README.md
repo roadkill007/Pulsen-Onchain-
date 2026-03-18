@@ -1,4 +1,4 @@
-# On-Chain Pulse CLI
+# PULSEN ( On-Chain Pulse CLI )
 
 This project uses Nansen API to generate a blockchain activity report.
 
